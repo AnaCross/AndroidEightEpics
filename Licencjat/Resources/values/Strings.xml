@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+  <!--Menu-->
+    <string name="ApplicationName">Menu</string>
+    <string name ="buttonPlay">Play</string>
+    <string name ="buttonInstruction">Instruction</string>
+    <string name ="buttonAchievement">Achievement</string>
+  <!--Change Level-->
+    <string name="buttonEasy">Easy - Change active Hero and 5 Threats</string>
+    <string name="buttonMedium">Medium - Don\'t change active Hero and 5 Threats</string>
+    <string name="buttonHard">Hard - Don\'t change active Hero and 8 Threats</string>
+    <string name="textChangeLevel">Change level</string>
+  <!--Hero Power-->
+    <string name="textHeroPower">%1$s</string>
+  <!--Hero Life point-->
+    <string name="textHeroLifePoint">%1$d / %2$d</string>
+  <!--Hero Name-->
+    <string name="textNameHero">%1$s</string>
+  <!--Threat Name-->
+    <string name="textNameThreat">%1$s</string>
+  <!--Threat Challenge-->
+    <string name="textChallengeMore">%1$dD: %2$d+</string>
+    <string name="textChallengeLess">%1$dD: %2$d-</string>
+    <string name="textChallengeSameNumber">%1$dD: Same number</string>
+    <string name="textChallengeMakano">%1$dD: 1 1 2 3 4 5 6 6</string>
+    <string name="textChallengeNarssis">%1$dD: 1 2 3 4 5 6</string>
+    <string name="textChallengeSerrin1">6 6 6 6 6 6 6 6 : 1 1 1 1 1 1 1 1</string>
+    <string name="textChallengeSerrin2">1 1 1 1 1 1 1 1 : 6 6 6 6 6 6 6 6</string>
+  <!--Game interface-->
+    <string name="textHero">Hero list:</string>
+    <string name="textHer">Hero list:</string>
+    <string name="textChallenge">Challenge list:</string>
+    <string name="textSum">Sum: %1$d</string>
+    <string name="textTreats">Treats to win game: %1$d</string>
+    <string name="textDicePool">Dice pool:</string>
+    <string name="buttonDice">%1$d</string>
+    <string name="buttonRoll">Reroll</string>
+    <string name="buttonChoose">Choose</string>
+    <string name="buttonUseSkill">Use Hero Skill</string>
+    <string name="textFaza">Faza:</string>
+  <!--Text for all-->
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="exit">Exit</string>
+</resources>
