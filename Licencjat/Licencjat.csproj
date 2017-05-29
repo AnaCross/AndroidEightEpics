@@ -51,11 +51,37 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="EightEpics\Adapter.cs" />
+    <Compile Include="EightEpics\Challenge\Challenge.cs" />
+    <Compile Include="EightEpics\Challenge\ChallengeLess.cs" />
+    <Compile Include="EightEpics\Challenge\ChallengeMore.cs" />
+    <Compile Include="EightEpics\Challenge\ChallengeOther.cs" />
+    <Compile Include="EightEpics\Challenge\ChallengeSameNumber.cs" />
     <Compile Include="ChooseLevelActivity.cs" />
-    <Compile Include="LevelActivity.cs" />
+    <Compile Include="EightEpics\Controller.cs" />
+    <Compile Include="EightEpics\Dice.cs" />
+    <Compile Include="EightEpics\DicePool.cs" />
+    <Compile Include="EightEpics\EnumGameLevel.cs" />
+    <Compile Include="EightEpics\Hero\EnumHeroName.cs" />
+    <Compile Include="EightEpics\Challenge\EnumThreatChallange.cs" />
+    <Compile Include="EightEpics\Threat\EnumThreatName.cs" />
+    <Compile Include="GameActivity.cs" />
+    <Compile Include="EightEpics\Hero\Hero.cs" />
+    <Compile Include="EightEpics\Hero\HeroAuriel.cs" />
+    <Compile Include="EightEpics\Hero\HeroCaroosh.cs" />
+    <Compile Include="EightEpics\Hero\HeroGron.cs" />
+    <Compile Include="EightEpics\Hero\HeroJarroth.cs" />
+    <Compile Include="EightEpics\Hero\HeroKhantos.cs" />
+    <Compile Include="EightEpics\Hero\HeroLeafwind.cs" />
+    <Compile Include="EightEpics\Hero\HeroOphinia.cs" />
+    <Compile Include="EightEpics\Hero\HeroSylliph.cs" />
     <Compile Include="MainActivity.cs" />
+    <Compile Include="EightEpics\NewGame.cs" />
+    <Compile Include="EightEpics\Program.cs" />
     <Compile Include="Resources\Resource.Designer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="EightEpics\Round.cs" />
+    <Compile Include="EightEpics\Threat\Threats.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="GettingStarted.Xamarin" />
@@ -87,6 +113,7 @@
   <ItemGroup>
     <None Include="Properties\AndroidManifest.xml" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
      Other similar extension points exist, see Microsoft.Common.targets.

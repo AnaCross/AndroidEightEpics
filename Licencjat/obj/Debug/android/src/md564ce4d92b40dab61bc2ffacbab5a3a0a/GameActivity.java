@@ -1,7 +1,7 @@
 package md564ce4d92b40dab61bc2ffacbab5a3a0a;
 
 
-public class LevelActivity
+public class GameActivity
 	extends android.app.Activity
 	implements
 		mono.android.IGCUserPeer
@@ -12,15 +12,15 @@ public class LevelActivity
 		__md_methods = 
 			"n_onCreate:(Landroid/os/Bundle;)V:GetOnCreate_Landroid_os_Bundle_Handler\n" +
 			"";
-		mono.android.Runtime.register ("Licencjat.LevelActivity, Licencjat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", LevelActivity.class, __md_methods);
+		mono.android.Runtime.register ("Licencjat.GameActivity, Licencjat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", GameActivity.class, __md_methods);
 	}
 
 
-	public LevelActivity () throws java.lang.Throwable
+	public GameActivity () throws java.lang.Throwable
 	{
 		super ();
-		if (getClass () == LevelActivity.class)
-			mono.android.TypeManager.Activate ("Licencjat.LevelActivity, Licencjat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "", this, new java.lang.Object[] {  });
+		if (getClass () == GameActivity.class)
+			mono.android.TypeManager.Activate ("Licencjat.GameActivity, Licencjat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "", this, new java.lang.Object[] {  });
 	}
 
 

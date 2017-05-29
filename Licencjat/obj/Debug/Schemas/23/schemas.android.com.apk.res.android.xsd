@@ -2,7 +2,7 @@
 <xs:schema xmlns:android="http://schemas.android.com/apk/res/android" attributeFormDefault="qualified" targetNamespace="http://schemas.android.com/apk/res/android" xmlns:xs="http://www.w3.org/2001/XMLSchema">
   <xs:annotation>
     <xs:documentation>v23</xs:documentation>
-    <xs:documentation>10.05.2017 17:54:53</xs:documentation>
+    <xs:documentation>29.05.2017 16:09:09</xs:documentation>
   </xs:annotation>
   <xs:attribute name="accessibilityLiveRegion">
     <xs:annotation>
@@ -3628,7 +3628,6 @@
             <xs:enumeration value="@string/textChallengeSerrin2" />
             <xs:enumeration value="@string/textChangeLevel" />
             <xs:enumeration value="@string/textDicePool" />
-            <xs:enumeration value="@string/textFaza" />
             <xs:enumeration value="@string/textHer" />
             <xs:enumeration value="@string/textHero" />
             <xs:enumeration value="@string/textHeroLifePoint" />
@@ -3700,7 +3699,6 @@
             <xs:enumeration value="@string/textChallengeSerrin2" />
             <xs:enumeration value="@string/textChangeLevel" />
             <xs:enumeration value="@string/textDicePool" />
-            <xs:enumeration value="@string/textFaza" />
             <xs:enumeration value="@string/textHer" />
             <xs:enumeration value="@string/textHero" />
             <xs:enumeration value="@string/textHeroLifePoint" />
@@ -4338,7 +4336,6 @@
             <xs:enumeration value="@string/textChallengeSerrin2" />
             <xs:enumeration value="@string/textChangeLevel" />
             <xs:enumeration value="@string/textDicePool" />
-            <xs:enumeration value="@string/textFaza" />
             <xs:enumeration value="@string/textHer" />
             <xs:enumeration value="@string/textHero" />
             <xs:enumeration value="@string/textHeroLifePoint" />
@@ -4896,7 +4893,6 @@
             <xs:enumeration value="@string/textChallengeSerrin2" />
             <xs:enumeration value="@string/textChangeLevel" />
             <xs:enumeration value="@string/textDicePool" />
-            <xs:enumeration value="@string/textFaza" />
             <xs:enumeration value="@string/textHer" />
             <xs:enumeration value="@string/textHero" />
             <xs:enumeration value="@string/textHeroLifePoint" />
@@ -6004,7 +6000,6 @@
             <xs:enumeration value="@string/textChallengeSerrin2" />
             <xs:enumeration value="@string/textChangeLevel" />
             <xs:enumeration value="@string/textDicePool" />
-            <xs:enumeration value="@string/textFaza" />
             <xs:enumeration value="@string/textHer" />
             <xs:enumeration value="@string/textHero" />
             <xs:enumeration value="@string/textHeroLifePoint" />
@@ -6326,7 +6321,6 @@
             <xs:enumeration value="@string/textChallengeSerrin2" />
             <xs:enumeration value="@string/textChangeLevel" />
             <xs:enumeration value="@string/textDicePool" />
-            <xs:enumeration value="@string/textFaza" />
             <xs:enumeration value="@string/textHer" />
             <xs:enumeration value="@string/textHero" />
             <xs:enumeration value="@string/textHeroLifePoint" />
@@ -11064,7 +11058,6 @@
             <xs:enumeration value="@string/textChallengeSerrin2" />
             <xs:enumeration value="@string/textChangeLevel" />
             <xs:enumeration value="@string/textDicePool" />
-            <xs:enumeration value="@string/textFaza" />
             <xs:enumeration value="@string/textHer" />
             <xs:enumeration value="@string/textHero" />
             <xs:enumeration value="@string/textHeroLifePoint" />
@@ -11136,7 +11129,6 @@
             <xs:enumeration value="@string/textChallengeSerrin2" />
             <xs:enumeration value="@string/textChangeLevel" />
             <xs:enumeration value="@string/textDicePool" />
-            <xs:enumeration value="@string/textFaza" />
             <xs:enumeration value="@string/textHer" />
             <xs:enumeration value="@string/textHero" />
             <xs:enumeration value="@string/textHeroLifePoint" />
@@ -11735,7 +11727,6 @@
             <xs:enumeration value="@string/textChallengeSerrin2" />
             <xs:enumeration value="@string/textChangeLevel" />
             <xs:enumeration value="@string/textDicePool" />
-            <xs:enumeration value="@string/textFaza" />
             <xs:enumeration value="@string/textHer" />
             <xs:enumeration value="@string/textHero" />
             <xs:enumeration value="@string/textHeroLifePoint" />
@@ -11807,7 +11798,6 @@
             <xs:enumeration value="@string/textChallengeSerrin2" />
             <xs:enumeration value="@string/textChangeLevel" />
             <xs:enumeration value="@string/textDicePool" />
-            <xs:enumeration value="@string/textFaza" />
             <xs:enumeration value="@string/textHer" />
             <xs:enumeration value="@string/textHero" />
             <xs:enumeration value="@string/textHeroLifePoint" />
@@ -11879,7 +11869,6 @@
             <xs:enumeration value="@string/textChallengeSerrin2" />
             <xs:enumeration value="@string/textChangeLevel" />
             <xs:enumeration value="@string/textDicePool" />
-            <xs:enumeration value="@string/textFaza" />
             <xs:enumeration value="@string/textHer" />
             <xs:enumeration value="@string/textHero" />
             <xs:enumeration value="@string/textHeroLifePoint" />
@@ -16947,7 +16936,6 @@
             <xs:enumeration value="@string/textChallengeSerrin2" />
             <xs:enumeration value="@string/textChangeLevel" />
             <xs:enumeration value="@string/textDicePool" />
-            <xs:enumeration value="@string/textFaza" />
             <xs:enumeration value="@string/textHer" />
             <xs:enumeration value="@string/textHero" />
             <xs:enumeration value="@string/textHeroLifePoint" />
@@ -17102,12 +17090,48 @@
             <xs:enumeration value="@id/buttonPlay" />
             <xs:enumeration value="@id/buttonRoll" />
             <xs:enumeration value="@id/buttonSkill" />
+            <xs:enumeration value="@id/buttonSkill1" />
+            <xs:enumeration value="@id/buttonSkill2" />
+            <xs:enumeration value="@id/buttonSkill3" />
+            <xs:enumeration value="@id/buttonSkill4" />
+            <xs:enumeration value="@id/buttonSkill5" />
+            <xs:enumeration value="@id/buttonSkill6" />
+            <xs:enumeration value="@id/buttonSkill7" />
+            <xs:enumeration value="@id/buttonSkill8" />
+            <xs:enumeration value="@id/HeroPanel" />
             <xs:enumeration value="@id/linearLayout1" />
             <xs:enumeration value="@id/linearLayout2" />
-            <xs:enumeration value="@id/textFaza" />
-            <xs:enumeration value="@id/textHeroLifePoint" />
+            <xs:enumeration value="@id/linearLayout3" />
+            <xs:enumeration value="@id/linearLayout4" />
+            <xs:enumeration value="@id/linearLayout5" />
+            <xs:enumeration value="@id/linearLayout6" />
+            <xs:enumeration value="@id/linearLayout7" />
+            <xs:enumeration value="@id/linearLayout8" />
+            <xs:enumeration value="@id/textHeroLifePoint1" />
+            <xs:enumeration value="@id/textHeroLifePoint2" />
+            <xs:enumeration value="@id/textHeroLifePoint3" />
+            <xs:enumeration value="@id/textHeroLifePoint4" />
+            <xs:enumeration value="@id/textHeroLifePoint5" />
+            <xs:enumeration value="@id/textHeroLifePoint6" />
+            <xs:enumeration value="@id/textHeroLifePoint7" />
+            <xs:enumeration value="@id/textHeroLifePoint8" />
             <xs:enumeration value="@id/textHeroPower" />
-            <xs:enumeration value="@id/textNameHero" />
+            <xs:enumeration value="@id/textHeroPower1" />
+            <xs:enumeration value="@id/textHeroPower2" />
+            <xs:enumeration value="@id/textHeroPower3" />
+            <xs:enumeration value="@id/textHeroPower4" />
+            <xs:enumeration value="@id/textHeroPower5" />
+            <xs:enumeration value="@id/textHeroPower6" />
+            <xs:enumeration value="@id/textHeroPower7" />
+            <xs:enumeration value="@id/textHeroPower8" />
+            <xs:enumeration value="@id/textNameHero1" />
+            <xs:enumeration value="@id/textNameHero2" />
+            <xs:enumeration value="@id/textNameHero3" />
+            <xs:enumeration value="@id/textNameHero4" />
+            <xs:enumeration value="@id/textNameHero5" />
+            <xs:enumeration value="@id/textNameHero6" />
+            <xs:enumeration value="@id/textNameHero7" />
+            <xs:enumeration value="@id/textNameHero8" />
             <xs:enumeration value="@id/textNameThreat" />
             <xs:enumeration value="@id/textSum" />
             <xs:enumeration value="@id/textView1" />
@@ -17460,7 +17484,6 @@
             <xs:enumeration value="@string/textChallengeSerrin2" />
             <xs:enumeration value="@string/textChangeLevel" />
             <xs:enumeration value="@string/textDicePool" />
-            <xs:enumeration value="@string/textFaza" />
             <xs:enumeration value="@string/textHer" />
             <xs:enumeration value="@string/textHero" />
             <xs:enumeration value="@string/textHeroLifePoint" />
@@ -18708,7 +18731,6 @@
             <xs:enumeration value="@string/textChallengeSerrin2" />
             <xs:enumeration value="@string/textChangeLevel" />
             <xs:enumeration value="@string/textDicePool" />
-            <xs:enumeration value="@string/textFaza" />
             <xs:enumeration value="@string/textHer" />
             <xs:enumeration value="@string/textHero" />
             <xs:enumeration value="@string/textHeroLifePoint" />
@@ -21198,7 +21220,6 @@
             <xs:enumeration value="@string/textChallengeSerrin2" />
             <xs:enumeration value="@string/textChangeLevel" />
             <xs:enumeration value="@string/textDicePool" />
-            <xs:enumeration value="@string/textFaza" />
             <xs:enumeration value="@string/textHer" />
             <xs:enumeration value="@string/textHero" />
             <xs:enumeration value="@string/textHeroLifePoint" />
@@ -21427,7 +21448,6 @@
             <xs:enumeration value="@string/textChallengeSerrin2" />
             <xs:enumeration value="@string/textChangeLevel" />
             <xs:enumeration value="@string/textDicePool" />
-            <xs:enumeration value="@string/textFaza" />
             <xs:enumeration value="@string/textHer" />
             <xs:enumeration value="@string/textHero" />
             <xs:enumeration value="@string/textHeroLifePoint" />
@@ -21713,7 +21733,6 @@
             <xs:enumeration value="@string/textChallengeSerrin2" />
             <xs:enumeration value="@string/textChangeLevel" />
             <xs:enumeration value="@string/textDicePool" />
-            <xs:enumeration value="@string/textFaza" />
             <xs:enumeration value="@string/textHer" />
             <xs:enumeration value="@string/textHero" />
             <xs:enumeration value="@string/textHeroLifePoint" />
@@ -22437,7 +22456,6 @@
             <xs:enumeration value="@string/textChallengeSerrin2" />
             <xs:enumeration value="@string/textChangeLevel" />
             <xs:enumeration value="@string/textDicePool" />
-            <xs:enumeration value="@string/textFaza" />
             <xs:enumeration value="@string/textHer" />
             <xs:enumeration value="@string/textHero" />
             <xs:enumeration value="@string/textHeroLifePoint" />
@@ -24370,7 +24388,6 @@
             <xs:enumeration value="@string/textChallengeSerrin2" />
             <xs:enumeration value="@string/textChangeLevel" />
             <xs:enumeration value="@string/textDicePool" />
-            <xs:enumeration value="@string/textFaza" />
             <xs:enumeration value="@string/textHer" />
             <xs:enumeration value="@string/textHero" />
             <xs:enumeration value="@string/textHeroLifePoint" />
@@ -26323,7 +26340,6 @@
             <xs:enumeration value="@string/textChallengeSerrin2" />
             <xs:enumeration value="@string/textChangeLevel" />
             <xs:enumeration value="@string/textDicePool" />
-            <xs:enumeration value="@string/textFaza" />
             <xs:enumeration value="@string/textHer" />
             <xs:enumeration value="@string/textHero" />
             <xs:enumeration value="@string/textHeroLifePoint" />
@@ -27335,7 +27351,6 @@
             <xs:enumeration value="@string/textChallengeSerrin2" />
             <xs:enumeration value="@string/textChangeLevel" />
             <xs:enumeration value="@string/textDicePool" />
-            <xs:enumeration value="@string/textFaza" />
             <xs:enumeration value="@string/textHer" />
             <xs:enumeration value="@string/textHero" />
             <xs:enumeration value="@string/textHeroLifePoint" />
@@ -30764,7 +30779,6 @@
             <xs:enumeration value="@string/textChallengeSerrin2" />
             <xs:enumeration value="@string/textChangeLevel" />
             <xs:enumeration value="@string/textDicePool" />
-            <xs:enumeration value="@string/textFaza" />
             <xs:enumeration value="@string/textHer" />
             <xs:enumeration value="@string/textHero" />
             <xs:enumeration value="@string/textHeroLifePoint" />
@@ -32059,7 +32073,6 @@
             <xs:enumeration value="@string/textChallengeSerrin2" />
             <xs:enumeration value="@string/textChangeLevel" />
             <xs:enumeration value="@string/textDicePool" />
-            <xs:enumeration value="@string/textFaza" />
             <xs:enumeration value="@string/textHer" />
             <xs:enumeration value="@string/textHero" />
             <xs:enumeration value="@string/textHeroLifePoint" />
@@ -33263,7 +33276,6 @@
             <xs:enumeration value="@string/textChallengeSerrin2" />
             <xs:enumeration value="@string/textChangeLevel" />
             <xs:enumeration value="@string/textDicePool" />
-            <xs:enumeration value="@string/textFaza" />
             <xs:enumeration value="@string/textHer" />
             <xs:enumeration value="@string/textHero" />
             <xs:enumeration value="@string/textHeroLifePoint" />
@@ -34950,7 +34962,6 @@
             <xs:enumeration value="@string/textChallengeSerrin2" />
             <xs:enumeration value="@string/textChangeLevel" />
             <xs:enumeration value="@string/textDicePool" />
-            <xs:enumeration value="@string/textFaza" />
             <xs:enumeration value="@string/textHer" />
             <xs:enumeration value="@string/textHero" />
             <xs:enumeration value="@string/textHeroLifePoint" />
@@ -35022,7 +35033,6 @@
             <xs:enumeration value="@string/textChallengeSerrin2" />
             <xs:enumeration value="@string/textChangeLevel" />
             <xs:enumeration value="@string/textDicePool" />
-            <xs:enumeration value="@string/textFaza" />
             <xs:enumeration value="@string/textHer" />
             <xs:enumeration value="@string/textHero" />
             <xs:enumeration value="@string/textHeroLifePoint" />
@@ -38151,7 +38161,6 @@
             <xs:enumeration value="@string/textChallengeSerrin2" />
             <xs:enumeration value="@string/textChangeLevel" />
             <xs:enumeration value="@string/textDicePool" />
-            <xs:enumeration value="@string/textFaza" />
             <xs:enumeration value="@string/textHer" />
             <xs:enumeration value="@string/textHero" />
             <xs:enumeration value="@string/textHeroLifePoint" />
@@ -38223,7 +38232,6 @@
             <xs:enumeration value="@string/textChallengeSerrin2" />
             <xs:enumeration value="@string/textChangeLevel" />
             <xs:enumeration value="@string/textDicePool" />
-            <xs:enumeration value="@string/textFaza" />
             <xs:enumeration value="@string/textHer" />
             <xs:enumeration value="@string/textHero" />
             <xs:enumeration value="@string/textHeroLifePoint" />
@@ -40378,7 +40386,6 @@
             <xs:enumeration value="@string/textChallengeSerrin2" />
             <xs:enumeration value="@string/textChangeLevel" />
             <xs:enumeration value="@string/textDicePool" />
-            <xs:enumeration value="@string/textFaza" />
             <xs:enumeration value="@string/textHer" />
             <xs:enumeration value="@string/textHero" />
             <xs:enumeration value="@string/textHeroLifePoint" />
@@ -40553,7 +40560,6 @@
             <xs:enumeration value="@string/textChallengeSerrin2" />
             <xs:enumeration value="@string/textChangeLevel" />
             <xs:enumeration value="@string/textDicePool" />
-            <xs:enumeration value="@string/textFaza" />
             <xs:enumeration value="@string/textHer" />
             <xs:enumeration value="@string/textHero" />
             <xs:enumeration value="@string/textHeroLifePoint" />
@@ -41710,7 +41716,6 @@
             <xs:enumeration value="@string/textChallengeSerrin2" />
             <xs:enumeration value="@string/textChangeLevel" />
             <xs:enumeration value="@string/textDicePool" />
-            <xs:enumeration value="@string/textFaza" />
             <xs:enumeration value="@string/textHer" />
             <xs:enumeration value="@string/textHero" />
             <xs:enumeration value="@string/textHeroLifePoint" />

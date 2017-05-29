@@ -2,10 +2,10 @@ Licencjat.ChooseLevelActivity, Licencjat;md564ce4d92b40dab61bc2ffacbab5a3a0a.Cho
 Licencjat.ChooseLevelActivity, Licencjat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md564ce4d92b40dab61bc2ffacbab5a3a0a.ChooseLevelActivity
 Licencjat.ChooseLevelActivity;md564ce4d92b40dab61bc2ffacbab5a3a0a.ChooseLevelActivity
 licencjat.ChooseLevelActivity;md564ce4d92b40dab61bc2ffacbab5a3a0a.ChooseLevelActivity
-Licencjat.LevelActivity, Licencjat;md564ce4d92b40dab61bc2ffacbab5a3a0a.LevelActivity
-Licencjat.LevelActivity, Licencjat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md564ce4d92b40dab61bc2ffacbab5a3a0a.LevelActivity
-Licencjat.LevelActivity;md564ce4d92b40dab61bc2ffacbab5a3a0a.LevelActivity
-licencjat.LevelActivity;md564ce4d92b40dab61bc2ffacbab5a3a0a.LevelActivity
+Licencjat.GameActivity, Licencjat;md564ce4d92b40dab61bc2ffacbab5a3a0a.GameActivity
+Licencjat.GameActivity, Licencjat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md564ce4d92b40dab61bc2ffacbab5a3a0a.GameActivity
+Licencjat.GameActivity;md564ce4d92b40dab61bc2ffacbab5a3a0a.GameActivity
+licencjat.GameActivity;md564ce4d92b40dab61bc2ffacbab5a3a0a.GameActivity
 Licencjat.MainActivity, Licencjat;md564ce4d92b40dab61bc2ffacbab5a3a0a.MainActivity
 Licencjat.MainActivity, Licencjat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md564ce4d92b40dab61bc2ffacbab5a3a0a.MainActivity
 Licencjat.MainActivity;md564ce4d92b40dab61bc2ffacbab5a3a0a.MainActivity
