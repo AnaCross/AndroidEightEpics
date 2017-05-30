@@ -56,6 +56,9 @@ namespace Licencjat
             Context context = this;
             Controller controller = new Controller(newGame, this);  
             controller.createHeroes(context.Resources);
+            controller.createDicePool(context.Resources);
+            Console.WriteLine("tu jestem!!!");
+            controller.createThreat(context.Resources);
             // Create your application here
         }
 

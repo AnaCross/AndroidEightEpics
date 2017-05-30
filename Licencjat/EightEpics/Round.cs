@@ -15,12 +15,14 @@ namespace EightEpics
         public Hero currentHero { get; private set; }
         public int numberChallange { get; private set; }
         public int countDicePool { get; }
+        public static int numberRound = -1;
 
         public Round(Threats th, List<Hero> hL)
         {
             threat = th;
             heroList = hL;
             numberChallange = 0;
+            numberRound++;
             currentHero = heroList[0];
             if (threat.iD.Equals(EnumThreatName.SERRIN))
             {

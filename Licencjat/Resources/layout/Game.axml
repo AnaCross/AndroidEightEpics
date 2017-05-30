@@ -11,14 +11,14 @@
         android:minHeight="25px"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/linearLayout1"
+        android:id="@+id/diceLayout"
         android:layout_marginRight="10.0dp"
         android:layout_marginBottom="0.0dp"
         android:layout_marginLeft="10.0dp">
         <TextView
             android:text="@string/textSum"
             android:textAppearance="?android:attr/textAppearanceMedium"
-            android:layout_width="match_parent"
+            android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:id="@+id/textSum"
             android:layout_marginRight="0.0dp"
@@ -56,7 +56,7 @@
             android:minHeight="25px"
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
-            android:id="@+id/linearLayout1"
+            android:id="@+id/ThreatPanel"
             android:layout_marginRight="0.0dp"
             android:layout_marginBottom="0.0dp"
             android:layout_marginLeft="10.0dp">
@@ -401,22 +401,22 @@
                 android:id="@+id/buttonSkill8" />
         </LinearLayout>
     </LinearLayout>
-  <LinearLayout
-            android:orientation="vertical"
-            android:minWidth="25px"
-            android:minHeight="25px"
-            android:layout_width="wrap_content"
-            android:layout_height="match_parent"
-            android:id="@+id/linearLayout1"
-            android:layout_marginRight="0.0dp"
-            android:layout_marginBottom="0.0dp"
-            android:layout_marginLeft="10.0dp">
-    <TextView
-        android:text="@string/textHeroPower"
-        android:textAppearance="?android:attr/textAppearanceMedium"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/textHeroPower"
-        android:layout_marginRight="0.0dp" />
-  </LinearLayout>
+    <LinearLayout
+        android:orientation="vertical"
+        android:minWidth="25px"
+        android:minHeight="25px"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:id="@+id/linearLayout1"
+        android:layout_marginRight="0.0dp"
+        android:layout_marginBottom="0.0dp"
+        android:layout_marginLeft="10.0dp">
+        <TextView
+            android:text="@string/textHeroPower"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/textHeroPower"
+            android:layout_marginRight="0.0dp" />
+    </LinearLayout>
 </LinearLayout>

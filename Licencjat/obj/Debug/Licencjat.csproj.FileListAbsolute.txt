@@ -2,6 +2,7 @@ C:\Users\wgrel\documents\visual studio 2015\Projects\Licencjat\Licencjat\bin\Deb
 C:\Users\wgrel\documents\visual studio 2015\Projects\Licencjat\Licencjat\bin\Debug\Licencjat.pdb
 C:\Users\wgrel\documents\visual studio 2015\Projects\Licencjat\Licencjat\bin\Debug\Licencjat.Licencjat.apk
 C:\Users\wgrel\documents\visual studio 2015\Projects\Licencjat\Licencjat\bin\Debug\Licencjat.Licencjat-Signed.apk
+C:\Users\wgrel\documents\visual studio 2015\Projects\Licencjat\Licencjat\obj\Debug\Licencjat.csprojResolveAssemblyReference.cache
 C:\Users\wgrel\documents\visual studio 2015\Projects\Licencjat\Licencjat\obj\Debug\Licencjat.dll
 C:\Users\wgrel\documents\visual studio 2015\Projects\Licencjat\Licencjat\obj\Debug\Licencjat.pdb
 C:\Users\wgrel\documents\visual studio 2015\Projects\Licencjat\Licencjat\obj\Debug\android\bin\Licencjat.Licencjat.apk
@@ -37,6 +38,5 @@ C:\Users\wgrel\documents\visual studio 2015\Projects\Licencjat\Licencjat\obj\Deb
 C:\Users\wgrel\documents\visual studio 2015\Projects\Licencjat\Licencjat\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
 C:\Users\wgrel\documents\visual studio 2015\Projects\Licencjat\Licencjat\obj\Debug\android\assets\System.Xml.dll.mdb
 C:\Users\wgrel\documents\visual studio 2015\Projects\Licencjat\Licencjat\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
-C:\Users\wgrel\documents\visual studio 2015\Projects\Licencjat\Licencjat\obj\Debug\Licencjat.csprojResolveAssemblyReference.cache
 C:\Users\wgrel\documents\visual studio 2015\Projects\Licencjat\Licencjat\obj\Debug\Licencjat.dll.mdb
 C:\Users\wgrel\documents\visual studio 2015\Projects\Licencjat\Licencjat\bin\Debug\Licencjat.dll.mdb
